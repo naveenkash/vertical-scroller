@@ -1,4 +1,6 @@
-# scroll-info
+# vertical scroller
+
+The side details will stick to top while scrolling creating a cool UI experience and the the content of it will change on scroll depend on what image is shown and when last image is shown then side details will come back to it's original position.
 
 ## Project setup
 ```
@@ -14,16 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
