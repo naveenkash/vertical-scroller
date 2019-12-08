@@ -25,11 +25,13 @@
     "env": {
       "node": true
     },
+    "rules": {
+      "no-console": "off"
+    },
     "extends": [
       "plugin:vue/essential",
       "eslint:recommended"
     ],
-    "rules": {},
     "parserOptions": {
       "parser": "babel-eslint"
     }
